@@ -2,11 +2,11 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/XDevkG9W6UbwgQmPn995r3/graphql",
       "headers": {
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
+          "ac-environment-id": "XDevkG9W6UbwgQmPn995r3",
           "ac-scope-locale": "en-US",
           "ac-price-book-id": "west_coast_inc"
         }
